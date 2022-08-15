@@ -28,3 +28,7 @@ Após clonar o repositório:
 Para rodar o programa:
 ### `npm start`
 
+## ✨ Layout 
+![image](https://user-images.githubusercontent.com/50851374/184707295-4287334a-07ab-49bc-bb6c-5a6def6e3de0.png)
+![image](https://user-images.githubusercontent.com/50851374/184707403-bb85f541-1cd2-4a23-8220-ba684dc3e539.png)
+
